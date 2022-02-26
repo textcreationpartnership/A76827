@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the late scandalous and libellous pamphlet, entituled, A complaint to the House of Commons; and resolution taken up by the free Protestant subjects of the cities of London and Westminster, and the counties adjacent. Wherein 'tis proved, that the Lord Major of London doth not usurp his office; but is a legall major, and obedience ought to be given him. / By Peter Bland of Grays-Inne, Gent.</title>
+            <author>Bland, Peter, of Gray's Inne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76827</idno>
+            <idno type="STC">Wing B3160</idno>
+            <idno type="STC">Thomason E244_36</idno>
+            <idno type="STC">ESTC R4975</idno>
+            <idno type="EEBO-CITATION">99872760</idno>
+            <idno type="PROQUEST">99872760</idno>
+            <idno type="VID">125206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the late scandalous and libellous pamphlet, entituled, A complaint to the House of Commons; and resolution taken up by the free Protestant subjects of the cities of London and Westminster, and the counties adjacent. Wherein 'tis proved, that the Lord Major of London doth not usurp his office; but is a legall major, and obedience ought to be given him. / By Peter Bland of Grays-Inne, Gent.</title>
+                  <author>Bland, Peter, of Gray's Inne.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Field.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 5. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Complaint to the House of Commons, and resolution taken up by the free Protestant subjects of the cities of London and Westminster, and the counties adjacent.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125206:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO The late Scandalous and Libellous PAMPHLET, ENTITULED, A COMPLAINT to the Houſe of Commons; And Reſolution taken up by the free Proteſtant Subjects of the Cities OF LONDON and WESTMINSTER, and the Counties adjacent.</p>
+            <p>Wherein 'tis proved, that the Lord MAjOR of <hi>London</hi> doth not uſurp his Office; but is a Legall Major, and obedience ought to be given him.</p>
+            <p>By <hi>PETER BLAND</hi> of Grays-Inne, Gent.</p>
+            <p>
+               <hi>London,</hi> Printed for JOHN FIELD. 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:125206:2"/>
+            <pb n="3" facs="tcp:125206:2"/>
+            <head>To the Right Honorable, and the moſt worthy to be for ever honoured, ISAAC PENNINGTON Lord Major of the honorable City of LONDON, and one of the Members of the Houſe of COMMONS in Parliament aſſembled.</head>
+            <opener>
+               <salute>My LORD;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>Oſterity will by experience finde the Religi<g ref="char:EOLhyphen"/>ous care of your Country, which you have ſo zealouſly and wiſely diſcharged; and I am confident that your Lordſhips Memory will never meete a grave in coming Ages: And when thoſe that are now enemies to our wiſhed Reformation, ſhall be made ſenſible of their errors, they'le be ready to free me from flattery: I have endeavoured to give an Anſwer to that Libellous Pamphlet, and it being but weakely per<g ref="char:EOLhyphen"/>formed, I preſent it to your Lordſhip, not for its worth, but as an expreſsion of that ſervice I owe your Lordſhip for being ſo faithfull and dutifull a ſon to your diſtreſſed mo<g ref="char:EOLhyphen"/>ther <hi>ENGLAND:</hi> My Lord, I beg no boon, but your acce<g ref="char:EOLhyphen"/>ptance; and leſt your Lordſhip ſhould ſuspect an inſinua<g ref="char:EOLhyphen"/>ting end in this bold attempt, I ſhall crave leave of your Lordſhip to go as I came, that is, to remain</p>
+            <closer>
+               <signed>Your Lordſhips faithfull, but unknown Servant<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:125206:3"/>
+            <head>
+               <hi>The Anſwer to the Book, entituled,</hi> A Complaint to the Houſe of COMMONS, &amp;c.</head>
+            <p>Complaint.</p>
+            <p>
+               <seg rend="decorInit">I</seg>N the third Page it is thus penn'd: <hi>We have ſeen and peruſed many Remonſtrances, Decla<g ref="char:EOLhyphen"/>rations, and Votes, and Ordinances; and our vote upon them all is, That it had bin happy for us, more advantagious to our Religion, and more honourable to our Nation, if they had bin ſtrangled in the birth, and never walked abroad in the light; and that it will never be well with us or the Kingdom, untill that they be buried in oblivion.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>The Author did here paſſe a Vote (in the name of the Cities of <hi>London</hi> and <hi>Weſtminſter</hi>) with no leſſe ignorance then impudence, and blaming the PARLIAMENT: he ſaith it had been happier for us and our Religion, if they had not put out ſuch Remonſtrances or Votes; and true<g ref="char:EOLhyphen"/>ly if I am not miſtaken in the Author (whom I gueſſe to be ſome Jeſuit or Roman Prieſt, or at leaſt a Catho<g ref="char:EOLhyphen"/>lique) I muſt confeſſe he is in the right, for without doubt, had not the Parliament bin, it had bin better for the Ro<g ref="char:EOLhyphen"/>man Catholique cauſe, which hath bin a long time in hopes of a good ſucceſſe, and which is daily endeavoured to be promoted; witneſſe the Queens practiſe with the Prince of <hi>Orange</hi> and others in <hi>Holland,</hi> and other Coun<g ref="char:EOLhyphen"/>tries, beſides the ſeverall Commiſſions that the King hath given to ſeverall Papiſts, to authorize them for the rai<g ref="char:EOLhyphen"/>ſing of an army of their own Religion. But for the ho<g ref="char:EOLhyphen"/>nour, which our Author ſayes, it had been to our Nati<g ref="char:EOLhyphen"/>on,
+<pb n="5" facs="tcp:125206:3"/>if thoſe Declarations had never bin; I believe hee meant if there had bin no juſt cauſe for thoſe Declarati<g ref="char:EOLhyphen"/>ons, which have mentioned nothing, but what was juſti<g ref="char:EOLhyphen"/>fied and proved, either by writings ſigned with the Kings own hand, or by oaths from men of credit, which have received unlawfull commands from the KINGS owne mouth; ſo that I may juſtly uſe thoſe words which the Author uſes in that third Page, <hi>viz. There are Conjurers abroad which do the utmoſt of their skill to raiſe evill Spirits, and that we ſhall never be at quiet till thoſe Spirits are laid, which can be done by no way now but the ſword; unleſſe we ſhould ground our peace upon the Kings word, which (like the laying of a ſpirit) in all probability would endure but ſeven yeers at moſt.</hi>
+            </p>
+            <p>Complaint.</p>
+            <p>In the third Page likewiſe theſe words are pennd, <hi>viz. Our Eſtates were taken away under the gentle terms of Benevolences and Loanes, where the choice was either to part with our Eſtates and Land, or lye in Priſon.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>'Twas a groſſe miſtake in the Author, with whom none do joyne in complaint, but ſuch as poſſeſſe nought; for the Honourable City of <hi>London</hi> (which he abuſeth by complaining in its name) would never have bin ſo zealous for Gods cauſe, if they had diſliked the Parliaments pro<g ref="char:EOLhyphen"/>ceedings; but 'tis commonly the cheators practiſe, to go in an honeſt mans name to colour his falſehood; beſides our eſtates were never taken away, 'twas only the twentieth part of our Eſtates: and if the Author had lookt back into former times, he ſhould have found this no new device; for he ſhould have found, that at the Aſ<g ref="char:EOLhyphen"/>ſembly of the States at <hi>Lambeth,</hi> (which was at the end of that yeer of the Parliament of <hi>Weſtminſter,</hi> which was in the ſixteenth yeer of the then King) that the King had the fortieth part of every mans goods given him freely to<g ref="char:EOLhyphen"/>wards
+<pb n="6" facs="tcp:125206:4"/>his debts: Beſides, <hi>Edward</hi> the firſt, the ſon of <hi>Henry</hi> the third, had in his third yeer, given him the fif<g ref="char:EOLhyphen"/>teenth part of all goods, which is more then you are tax<g ref="char:EOLhyphen"/>ed at, and yet this is for the King and Kingdom too: In his eighteenth yeer he had the eleventh part of all moveable goods within the Kingdom: in his nineteenth yeer he had the tenth part of all Church-livings in <hi>England:</hi> and in the latter end of his three and twentieth yeer, he had the tenth part of all goods of all the Burgeſſes and of the Commons: And now likewiſe the Parliament do not free themſelves from thoſe taxes they put upon the King<g ref="char:EOLhyphen"/>dom. In the five and twentieth yeer of his Raign, he had an eighteenth part of the goods of the Burgeſſes, and of the people in generall the tenth part; ſo then the Parlia<g ref="char:EOLhyphen"/>ments favoured themſelves more then the people and their Countries, and yet they were never murmured at as this Parliament is (by the Author) though in every taxe they bear an equall charge; nay, in ſome taxes this Parli<g ref="char:EOLhyphen"/>ament they have laid the greateſt burden upon their own ſhouldiers; Ordering, that what Tenants paid, their Land<g ref="char:EOLhyphen"/>lords ſhould bate it out of their Rent; and if ſo, then they being all Landlords muſt needs bear a greater part then o<g ref="char:EOLhyphen"/>thers. In the three and thirtieth yeer of his Raign, he confirm'd the Great Charter of his own Royall Diſpo<g ref="char:EOLhyphen"/>ſition, and then he had given him (for one yeer) the fifth part of the revenues of all the land, and of the Citizens the ſixt part of their goods: and divers other Preſidents I could give you, whereby you might ſee that other Par<g ref="char:EOLhyphen"/>liaments in former times, have not bin ſo fearfull of over<g ref="char:EOLhyphen"/>burthening the Subjects, as this happy Parliament hath been.</p>
+            <p>Complaint.</p>
+            <p>In the fourth Page, the Author goes forward, <hi>viz. When we found this preſſure, we ran to the Law for protection;
+<pb n="7" facs="tcp:125206:4"/>but found by wofull experience, that innocency was a worſe crime then fellony, for he that was committed for fellony was admit<g ref="char:EOLhyphen"/>ted to Bayle, whilſt he that was committed upon no cauſe, was upon his</hi> habeas corpus <hi>remanded and committed to priſon.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>The Author doth here accuſe the Parliament moſt fooliſhly and unjuſtly, for every one that knowes the Par<g ref="char:EOLhyphen"/>liament meddles not with caſes of Fellony (they being ſummoned to treat of things of a higher nature; and there being inferiour Courts for the puniſhment of ſuch crimes) muſt needs ſuppoſe that he means the Judges, though he ſeeks to ſet the people in direct oppoſition to the Parlia<g ref="char:EOLhyphen"/>ment; but our Engliſh Subjects are not led away with good lines, they all know the benefit of a Parliament, and have ever found them the ſure revengers of an injured cauſe; and when Malignant Favourites have barred them from their appeal to their gracious and religiouſly mea<g ref="char:EOLhyphen"/>ning Prince; the Parliament (being not ſubject to deluſi<g ref="char:EOLhyphen"/>on) have alwayes been ready to receive their complaints: And whereas he accuſeth the Parliament of impriſoning thoſe that are innocent, 'tis an unheard of impudence for him to make himſelfe more able to diſcerne betweene guilt and innocency then the Parliament; if he have it by relation onely or tradition that the Parliament do ſo, heareſay will not appeare a ſufficient excuſe either to mit<g ref="char:EOLhyphen"/>tigate his punniſhment, or maintain his wiſdome; or if he ſpeake in his owne cauſe onely (as perchance he may) let him know that wiſemen will never owne him for a competent Judge: And for the Squibb he puts upon the Lords, he ſhould have nominated them in particular, and then every one would have known who he had meant; But it ſeemes for thoſe Lords that are here, he aymed at none of them, elſe he would not have ſtucke to name them as well as my Lord Maior, and others which he hath na<g ref="char:EOLhyphen"/>med:
+<pb n="8" facs="tcp:125206:5"/>And for the Lords that are with the King, tis like<g ref="char:EOLhyphen"/>ly he meant not them, for he knows that a generall plun<g ref="char:EOLhyphen"/>der will be ſufficient to pay particular debts; but which of either he meant, the abuſe of Peerage deſerves a ſhar<g ref="char:EOLhyphen"/>per revenge then thoſe new Priſons which he ſaith the Lords have found out to make their ſentences appeare more ſevere.</p>
+            <p>Complaint.</p>
+            <p>In the fift page it is thus penned, <hi>viz. It afflicts us to think of the preſſures we underwent by new Impoſts, and that in<g ref="char:EOLhyphen"/>voluntary dangerous preſident of</hi> 40. <hi>s. per</hi> tun <hi>upon Wine.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>By this 'tis made apparent what life he leades, and what converſation he is of; could he find nothing worth his complaint but that; and yet for the taking away of that his grievance, can he ſhew no greater a ſigne of thankfulneſſe to the Parliament, then ſcandalizing their juſt proceedings, endeavouring to render them odious to the Common people; who are the onely evidences that the Common People can ſhew for their enjoyment of what they call their owne? for how ſoone had thoſe ſmall poſſeſſions which the poore enjoy, bin throwne downe, to build great Pallaces for the reaching Pollititians in their rooms: had not the Parliament like a brazen wall defended them againſt thoſe Rebellious Traytors who quite forget that the Subjects giue nothing to the King for the Kingdomes uſe, but with adjunction of their own Intereſts, interlacing in one and the ſame Act, His Ma<g ref="char:EOLhyphen"/>jeſties reliefe, and their owne Liberties; which they ne<g ref="char:EOLhyphen"/>ver doe out of ſuſpition of the Kings Piety, or out of a feare of any ill that the King will do; but fearing what wicked Councell may by poſsibility perſwade him to doe.</p>
+            <p>Complaint.</p>
+            <p>In the 6. page it is thus penned, <hi>viz. If it had not beene
+<pb n="9" facs="tcp:125206:5"/>thought otherwiſe fit by the States, we ſhould never have de<g ref="char:EOLhyphen"/>nied the Biſhops a place in the Lords Houſe in Parliament; And though their Votes in Parliament be gone, which for the man<g ref="char:EOLhyphen"/>ner of carriage in taking them away (if all be true that we heare) was not ſo well as we could have wiſhed for the Honour of that great Court.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>What an abominable lye ſtands the Author guilty of, for he ſaith the City of <hi>London</hi> could have wiſhed the Bi<g ref="char:EOLhyphen"/>ſhopps might have ſtill enjoyed their places in the Lords Houſe: when as the City Petition againſt them and Po<g ref="char:EOLhyphen"/>piſh Lords is yet extant; the King himſelfe would no way juſtifie the Author in that particular (though he hath not ſtood to accuſe them all or ſome of them with Bribes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in indirect dealing) for He Himſelfe did paſſe the Bill for taking away their Votes; ſo that now tis become an Act or Law: And let any knowing man judge how ig<g ref="char:EOLhyphen"/>norant and immodeſt the Author is in ſpeaking againſt that which is enacted, it being contrary to the Order of the Houſe to ſpeake then, beſides the reaſons were fully debated by both ſides and in both the Houſes; and yet the Author hath ſhewed himſelfe guilty of ſo little: diſcre<g ref="char:EOLhyphen"/>tion, as to tax both the King, the Lords, and the Com<g ref="char:EOLhyphen"/>mons for doing that, and ſhewes not wherein they er<g ref="char:EOLhyphen"/>red in doing it: Onely he makes a hearſay ground for ex<g ref="char:EOLhyphen"/>ceptions againſt the Superiour and higheſt Court that this world hath given us leave to appeale to.</p>
+            <p>Complaint.</p>
+            <p>The Author goes forward, and in his 6. page ſaith in the name of the two Cities, <hi>That our loſſes were not ſmall, if the loſſe of Property, Liberty, Life, or Religion bee great.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:125206:6"/>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>'Tis certaine the loſſe will be great if ever it happen, but the two Cities are in a faire way (thanks be to GOD and a good Parliament) to keepe them; Alas the dan<g ref="char:EOLhyphen"/>ger of loſing theſe is on tother ſides prevailing, for can any man be ſo mad as to ſuppoſe that this Parliament will give away that Liberty which ſome of theſe very Parlia<g ref="char:EOLhyphen"/>ment Men have long ſince ſweate for, or at leaſt their An<g ref="char:EOLhyphen"/>ceſtors with no little care procured: why ſhould we ſup<g ref="char:EOLhyphen"/>poſe that they are growne weary of their Eſtates, or if they were, have they not Children to eaſe them of that burthen, or is it likely that they would envy they Chil<g ref="char:EOLhyphen"/>dren ſo much, as to abridge them of the liberty they them<g ref="char:EOLhyphen"/>ſelves have hitherto enjoyed; as if they had ſurffeited, and would free their Poſterity from the like diſeaſe.</p>
+            <p>Complaint.</p>
+            <p>In the ſeventh Page of that Pamphlet it is thus penn'd, <hi>viz. This Parliament to our thinking was called ſeaſonably for our relief; and the unhappy differences ariſen in Scotland, almoſt miraculouſly quieted, and our Brethren of that Nation returned home peaceably, but we muſt not forget that it coſt us</hi> 300000. <hi>pounds, which we could wiſh had bin ſpared.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>'Tis true that the calling of this Parliament was ſeaſo<g ref="char:EOLhyphen"/>nable, and ſo was the Act for not diſſolving it; but for the King to violate his own Act, and diſſolve this Parlia<g ref="char:EOLhyphen"/>ment by force (as is intended by his army) were altoge<g ref="char:EOLhyphen"/>ther untimely; and though we are now in a greater diſtra<g ref="char:EOLhyphen"/>ction then ever, yet the Parliament cannot be blamed by thoſe of judgement; for before, thjngs were carryed ac<g ref="char:EOLhyphen"/>cording to the deſire of thoſe that cauſed them, who be<g ref="char:EOLhyphen"/>ing in authority, did force an obedience from inferiour ſubjects, none daring to oppoſe them till now this Par<g ref="char:EOLhyphen"/>liament;
+<pb n="11" facs="tcp:125206:6"/>now the Parliament cannot ſo eaſily relieve us and correct thoſe former abuſes as ſome expect; for when great men and Favourites ſet a plot on foot, there muſt needs be ſome ſtir to overthrow it, eſpecially when the Princes beſt aſſiſtance is not wanting to bring it to paſſe: and for the 300000. pounds that the Scots had towards their charge they were put to; Let me tell you there was a great deale of good Engliſh blood bought (by that means) at an eaſie rate, conſidering the occaſions we may have for their future imployment: but thoſe that cauſed that, miſſing their bloody ends they expect<g ref="char:EOLhyphen"/>ed from that civill war, have cauſed this unnaturall war among our ſelves, whereby they hope to compaſſe that by the Proteſtant blood of <hi>England</hi> alone, which before they endeavoured by the deſtruction of two Proteſtant Kingdoms together.</p>
+            <p>Complaint.</p>
+            <p>In the eighth Page of that Book, 'tis thus penn'd, <hi>viz. At the beginning of the Parliament, they removed one highly charged for endeavouring the ſubverſion of the fundament all Laws of the Land; and though we are ſure he was a great cauſe of our ſufferings, yet we could wiſh his attainder might not have been in ſuch a manner as to need a Declaration, that his manner of puniſhment ſhould not be drawn into example.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>There was no Declaration, 'twas but a clauſe in the Bill of Attainder, and that clauſe is no ready way neither to draw a ſuſpition upon the juſtice of his ſentence: for this Parliament is not the firſt that have done ſo; for by the Statute of 25. <hi>E:</hi> 3. which is the Statute of Trea<g ref="char:EOLhyphen"/>ſons, you ſhall find that the very clauſe which this Par<g ref="char:EOLhyphen"/>liament hath uſed in the Earle of <hi>Straffords</hi> Attainder is, uſed there, <hi>viz.</hi> No Judges ſhall preſume to make
+<pb n="12" facs="tcp:125206:7"/>any thing Treaſon that is not Treaſon by that Statute, ex<g ref="char:EOLhyphen"/>cept it be done by the Parliament: and though the Earl of <hi>Strafford</hi> was adjudged a Traytor by the Parliament; yet I hope this Parliament hath the ſame authority to keepe this from being a Preſident, that the Parliament in <hi>Edward</hi> the thirds time, had for hindering the Judges to go according to former Preſidents.</p>
+            <p>And then for that part of the Pamphlet which layes aſperſions upon the Houſe, for letting the Biſhop of Canterbury and Judge <hi>Bartlet,</hi> lye ſo long in Priſon be<g ref="char:EOLhyphen"/>fore they be tryed; let me anſwer with that old rule; <hi>quod defertur non aufertur:</hi> all the world ſees there are bu<g ref="char:EOLhyphen"/>ſineſſes that are more urgent then their Trialls, about which the Houſe is wholly imployed: beſides, who does not ſee that the Parliament takes no delight in ſhed<g ref="char:EOLhyphen"/>ding of blood? and therefore if a temporall impriſon<g ref="char:EOLhyphen"/>ment will amend the Malefactors, what though the Par<g ref="char:EOLhyphen"/>liament be willing to ſpare their lives, and wave the ac<g ref="char:EOLhyphen"/>cuſation of Treaſon againſt any priſoner? muſt it there<g ref="char:EOLhyphen"/>fore follow that they could not make good their accuſa<g ref="char:EOLhyphen"/>tion? No, Parliaments are great bodies, and though they move but ſlowly, they are the leſſe ſubject to raſh<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Complaint.</p>
+            <p>In the ninth Page of that Book it is thus penn'd, <hi>viz. For the honeſt Lord Major</hi> Gurney, <hi>if you will believe us which were preſent at his triall, he might with more honour and juſtice too have been acquitted then ſentenced, his greatest fault being his obedience to his King.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>'Twere ſtrange if the world ſhould believe you the ſooner for being an Auditor, and by that meanes under<g ref="char:EOLhyphen"/>value
+<pb n="13" facs="tcp:125206:7"/>the judgement of a Parliament: beſides, your rea<g ref="char:EOLhyphen"/>ſon you give ſhews the weakneſſe of your judgement; for when the Kings command is pleaded to juſtifie an unlaw<g ref="char:EOLhyphen"/>full Act, 'twill be no barre to the cenſure, for the King himſelfe cannot be queſtioned for the fact, but he that the King imployes muſt endure the brunt; for the Kings command cannot be a diſpenſation for any mans offen<g ref="char:EOLhyphen"/>ding me: and for the ſcandalls that are by that Book layed upon the Houſe of COMMONS and LORDS both, they are ſo fearfully guilt with impudence, that I dread to read them; and therefore for an anſwer to them, I ſhall only ſay, that I think it no leſſe Treaſon in the Pamphleteer that does his beſt endeavour to raiſe a Warre againſt the Parliament, then 'tis in them that fight the Battle.</p>
+            <p>Complaint.</p>
+            <p>In the thirteenth Page of that Book it is thus penn'd, <hi>viz. What ſhall become of the multitude of the zealous Sectaries and Rabble of ignorant people ſent to both Houſes, but eſpecially to the Houſe of Peers, by Captain</hi> Ven <hi>and his Wife, and</hi> Iſaac Pennington, <hi>to cry juſtice, juſtice, and no Biſhops, no Biſhops: to terrifie ſome Lords from the Houſe, and to awe others that were there.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>Here we may ſee with what invective malice the Pam<g ref="char:EOLhyphen"/>phleteer did write againſt thoſe that ſtand for the Parli<g ref="char:EOLhyphen"/>ament, and ſo conſequently for Gods cauſe; could not that breeding which your lines tell you have had, bridle your unmannerly paſſion ſo much as to give the Lord Ma<g ref="char:EOLhyphen"/>jor his due Title of Honour? the King Himſelfe (who indeed is alwayes modeſt in his expreſſions which are free
+<pb n="14" facs="tcp:125206:8"/>from paſſion) was pleaſed to give him his Title of Al<g ref="char:EOLhyphen"/>derman in his laſt Declaration, and could you afford no better an expreſſion then plaine <hi>Iſaac;</hi> if you doubt him to be a legall Major, yet you cannot except againſt his be<g ref="char:EOLhyphen"/>ing Alderman, and then I hope if he had not bin a branch of that Noble and ancient family from whence he is un<g ref="char:EOLhyphen"/>doubtedly deſcended, yet at leaſt he might have had the addition of a Gentleman by his being Alderman of the City of <hi>London,</hi> and a Parliament man for that City; but certainely he is now (being legally choſen and ſworne) as legall a Major as any of his Predeceſſors were before: all that you can urge againſt his Authority, is that he hath not Commiſsion from the King? Pray ſee your errors now, by the Charter of <hi>London</hi> the Office of the Lord Major ſhould not goe by courſe, but by the Cities election; and by that Charter the King is (according to his promiſe at his Confirmation of it) to give a Commiſſion to him whom the City does elect, now they have elected Al<g ref="char:EOLhyphen"/>derman <hi>Pennington,</hi> and he is Sworn, now if he ſhould have no Authority, for want of a Commiſſion, then you blame the King for not dealing with his City according to their Charter firſt granted by his Royall Predeceſſors, and ſince confirmed by himselfe; now I thinke if the Pamphleteer had known this, rather then have laid ſuch a fault upon the King, he would have acknowledged him to be Lord Major of <hi>London,</hi> and have given him his Title.</p>
+            <p>Complaint.</p>
+            <p>In the 19. page tis thus penned, <hi>viz. We could never learn of any great experience of Marſhall valour in my Lord</hi> Say <hi>or his Sonne, that made them undertake imployments of that nature.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:125206:8"/>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>For that Scandall laid upon my Lord <hi>Say</hi> his Son, tis likely you were the firſt broacher of it; for one of that fa<g ref="char:EOLhyphen"/>ctious and bold ſpirit your pamphlet ſhewes you to bee endued with, would ſcorne to take newes at the ſecond hand, eſpecially having ſo good an invention: Tis bet<g ref="char:EOLhyphen"/>ter to imploy ſome honeſt men that have but little skill, then skilfull knaves that have no honeſty: yet at the end of <hi>Keynton</hi> Bataile there was no great ſigne of unskilfull Commanders.</p>
+            <p>Complaint.</p>
+            <p>In the 20. page of that Booke it is thus penned, <hi>viz. We ſhould weary out a patient reader to tell all our dſtreſſes, and how the buſineſſes of</hi> Ireland <hi>have been carryed, but 'twould have trenched too much upon the honour of thoſe Houſes.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>That is mightily feared by you, who if ever Treaſon were committed by writing a Pamphlet, you are guilty; for never was that impudence head of in any age that you have expreſſed againſt the State: And if <hi>Burton</hi> and <hi>Pryn</hi> and <hi>Baſtwicke</hi> did deſerve to loſe their eares, I am ſure thy life is forfeited: You will not ſpeake of <hi>Ireland</hi> leaſt you ſhould lay the Saddle upon the right Horſe, for twas the Parliament that ſent the Coates and other neceſſaries for <hi>Ireland,</hi> but twas not the Parliament that ſtopt any, what greater offence can there be then to threaten that great Councell the Parliament as you have done; was the poore man drawn, hanged and quartered, that raiſed a Tumult againſt the Biſhop of <hi>Canterbury</hi> who was but of the Kings Privy Councell? and ſhall it not be Treaſon to encourage others to war againſt a Parliament which
+<pb n="16" facs="tcp:125206:9"/>is the Kings gveat Councell: have other men been pu<g ref="char:EOLhyphen"/>niſhed for their contempts ſhowne to an inferiour Court, and ſhall you goe free for not onely obeying, but will<g ref="char:EOLhyphen"/>fully oppoſing that court from whence there lyes no ap<g ref="char:EOLhyphen"/>peale? have others bin ſeverely puniſhed for uttering words that did onely imply what you have openly pub<g ref="char:EOLhyphen"/>liſhed to all the world, and can you imagine to ſcape the ſentence of ſeverity for your inviting others to your owne degree of Rebellion, which you have done in the 24. page of your book, where you deſire all others to joyn with you in the oppoſition of all Ordinances that are made by the Parliament; And thus I have done with your Pamphlet, but for your ſelfe, I ſhall leave you to the juſt ſentence of the Honourable Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
